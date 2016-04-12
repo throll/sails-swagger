@@ -20,7 +20,7 @@
     "sdk",
     "documentation"
   ],
-  "author": "Travis Webb <me@traviswebb.com>",
+  "author": "Clément Billiot <clement.billiot@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/throll/sails-swagger/issues"
