@@ -35,9 +35,6 @@ After installing and configuring swagger, you can find the docs output on the [/
 ## License
 MIT
 
-## Maintained By
-##### [<img src='http://i.imgur.com/zM0ynQk.jpg' height='34px'>](http://balderdash.io)
-
 [sails-version-image]: https://goo.gl/gTUV5x
 [sails-url]: http://sailsjs.org
 [npm-image]: https://img.shields.io/npm/v/sails-swagger.svg?style=flat
